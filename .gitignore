@@ -1,0 +1,10 @@
+# Emacs backup files (e.g., filename.txt~)
+*~
+
+# Emacs auto-save files (e.g., #filename.txt#)
+\#*\#
+
+# Emacs lock files / crash recovery links (e.g., .#filename.txt)
+.\#*
+
+*.out
