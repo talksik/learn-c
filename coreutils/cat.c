@@ -31,6 +31,7 @@ int main(int argc, char *argv[]) {
   }
 
   fprintf(stderr, "Completed forward to stdout");
+  fclose(file);
 
   return 0;
 }
